@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["fire nation", "water nation", "earth nation", "air nation"]
+  ["wow", "water nation", "earth nation", "arrays!"]
 end
 
 def add_element_to_end_of_array(array, element)
